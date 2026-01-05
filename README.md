@@ -69,7 +69,7 @@ The system uses a **Hybrid Data Implementation**:
 ## 👥 Contributors
 
 *   **Sanjeev M** - *Lead Architect & AI Logic*
-*   **Harish Balaji** - *System Design & Implementation*
+*   **Harish Balaji** - *AI Engineer*
 
 ---
 *Built for the Future of Drug Safety.*
